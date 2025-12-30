@@ -38,7 +38,7 @@ function play() {
             Swal.fire({
                 title: 'Победа!',
                 
-                imageUrl: 'https://images.unsplash.com/photo-1569705460033-cfaa4bf9f822?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2lufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+                imageUrl: 'photo2.png',
                 imageWidth: 600,
                 imageHeight: 400,
                 imageAlt: 'victory',
